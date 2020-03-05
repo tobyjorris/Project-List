@@ -20,6 +20,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -66,17 +67,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Project List" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="881" y="288" key="CommitChangelistDialog2" timestamp="1583451099491">
+    <state x="881" y="288" key="CommitChangelistDialog2" timestamp="1583451122743">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="881" y="288" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.2560.1040@0.0.2560.1400" timestamp="1583451099491" />
+    <state x="881" y="288" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.2560.1040@0.0.2560.1400" timestamp="1583451122743" />
     <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1583451019406">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1040@0.0.2560.1400" timestamp="1583451019406" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1583451104077">
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1583451133804">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.2560.1040@0.0.2560.1400" timestamp="1583451104077" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.2560.1040@0.0.2560.1400" timestamp="1583451133804" />
   </component>
 </project>
